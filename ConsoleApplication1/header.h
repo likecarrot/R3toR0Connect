@@ -1,0 +1,1 @@
+#define	DEVICENAME	L"\\\\.\\testDeviceSym"
